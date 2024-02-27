@@ -1,0 +1,115 @@
+body{
+    margin: 40PX;
+    margin-top: 50PX;
+    border: solid;
+    border-radius: 20px;
+    padding-top: 15PX;
+    background-color: rgb(252, 236, 213);
+
+}
+
+
+.don{
+    width: 200PX;
+    margin-bottom: 20px;
+    height: 200PX;
+    border: solid;
+    border-radius: 5px;
+    border-width: 5px;
+    vertical-align: top;
+    border: 5px solid rgb(0, 0, 0);
+    
+    
+    
+}
+.texto{
+    margin-left: 20px;
+    display: inline-block;
+    padding-top: 90PX;
+    font-size: 15px;
+    
+    } 
+
+.img3{
+    width: 200PX;
+    height: 200PX;
+    display: inline-block;
+    border: solid;
+    border-radius: 5px;
+    border-width: 5px;
+    vertical-align: top;
+    border: 5px solid rgb(0, 0, 0);
+}
+
+.texto2{
+    margin-left: 20px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    display: inline-block;
+    padding-top: 5PX;
+    color: green;
+    
+}
+.parrafo{
+    margin-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: none;
+    display: inline-block;
+    padding-top: 5PX;
+    font-size: 25px;
+    display: inline-block;
+    padding-top: 15px;
+    
+}  
+
+.img4{
+    width: 200PX;
+    
+    height: 200PX;
+    display: inline-block;
+    border: solid;
+    border-radius: 5px;
+    border-width: 5px;
+    vertical-align: top;
+    border: 5px solid rgb(0, 0, 0);
+    background-image: none;
+}
+
+
+.parrafo3{
+    display: flex;
+    
+    height: 100px;
+    margin-right: 350px;
+    margin-right: 10px;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+ }
+
+ #img5{
+
+    width: 200px;
+    height: 200px;
+    border: 5px solid rgb(0, 0, 0);
+ }
+
+ .parrafo4{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 100px;
+    
+     }
+ .ultima{
+    height: 350px;
+    font-size: 20px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 5px solid rgb(0, 0, 0);
+    margin-left: 730px;
+    }
+    .final{
+        margin-left: 730px;
+        font-family: 'Times New Roman', Times, serif;
+    }
